@@ -8,5 +8,4 @@
 - 🤝 I'm looking to collaborate on a Minecraft server
 - 📫 How to reach me: 
   - Friend me on Discord: `Diligord#9698`!
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I started programming when I was ~10 years old in JS, and loved it ever since!
